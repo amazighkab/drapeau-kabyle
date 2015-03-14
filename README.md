@@ -1,3 +1,3 @@
 # drapeau-kabyle
 
-<imag src="flag.gif" />
+![Alt text](flag.gif)
